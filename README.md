@@ -1,3 +1,3 @@
 - 👋 Hey! I’m Isaac Leao. 
-- 👀 Currently doing year 1 of Software Engineering Technology at Conestoga College
+- 👀 Currently doing year 2 of Software Engineering Technology at Conestoga College
 - 🌱 I’m currently learning C, C++, Python and JavaScript 

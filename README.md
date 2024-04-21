@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Isaac Leao, a third-year Software Engineering Technology student at Conestoga College.
+I'm Isaac Leao, a third-year Software Engineering Technician student at Conestoga College.
 
 - 👀 Currently doing year 3 of Software Engineering Technology at Conestoga College
 - 🌱 I’m currently learning C, C++, Python, and JavaScript

@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Isaac Leao, a third-year Software Engineering Technician student at Conestoga College.
+I'm Isaac Leao, a recent graduate of Software Engineering Technician at Conestoga College.
 
 - 👀 Recent Grad of Software Engineering Technician at Conestoga College
 - 🌱 I’m currently learning C, C++, Python, and JavaScript
@@ -23,7 +23,7 @@ Check out some of my projects:
 
 - [GamesList](https://github.com/IribeiroLeao2003/GamesList)
 
-- [MoviePlayer](https://github.com/IribeiroLeao2003/MoviePlayer)
+- [IvyWeather]((https://github.com/Vivi-Kass/IvyWeather))
 
 ## Socials
 Connect with me on:

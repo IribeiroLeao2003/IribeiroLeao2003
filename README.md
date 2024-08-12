@@ -22,9 +22,19 @@ Here are some of the skills I've developed:
 Check out some of my projects:
 
 - [GamesList](https://github.com/IribeiroLeao2003/GamesList)
+- [GoalsD](https://github.com/IribeiroLeao2003/GoalsD)
+- [BadgeGenerator](https://github.com/IribeiroLeao2003/BadgeGenerator)
+
+
+
+## College Projects
+Check out some of my best projects done in College:
 
 - [IvyWeather](https://github.com/Vivi-Kass/IvyWeather)
+- [Sys-progA5](https://github.com/Vivi-Kass/IvyWeather)
+- [NADAssignment1](https://github.com/IribeiroLeao2003/NADAssignment1)
 
+  
 ## Socials
 Connect with me on:
 

@@ -3,7 +3,6 @@
 I'm Isaac Leao, a recent graduate of Software Engineering Technician at Conestoga College.
 
 - 👀 Recent Grad of Software Engineering Technician at Conestoga College
-- 🌱 I’m currently learning C, C++, Python, and JavaScript
 - 💪 Looking forward to expanding my knowledge and skills
 
 ## Skills

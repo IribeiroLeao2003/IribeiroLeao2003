@@ -23,7 +23,7 @@ Check out some of my projects:
 
 - [GamesList](https://github.com/IribeiroLeao2003/GamesList)
 
-- [IvyWeather]((https://github.com/Vivi-Kass/IvyWeather))
+- [IvyWeather](https://github.com/Vivi-Kass/IvyWeather)
 
 ## Socials
 Connect with me on:
